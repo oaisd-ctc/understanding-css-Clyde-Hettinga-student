@@ -3,7 +3,7 @@ body
     background-color: indigo;
 }
 
-li
+ul
 {
-    font-size: 10;
+    font-size: 1;
 }
