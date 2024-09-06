@@ -7,3 +7,19 @@ ul
 {
     font-size: 1;
 }
+
+#game
+{
+    letter-spacing: 3px;
+}
+
+#creature
+{
+    float: right;
+    text-transform: lowercase;
+}
+
+#excr
+{
+    line-height: 250%;
+}
